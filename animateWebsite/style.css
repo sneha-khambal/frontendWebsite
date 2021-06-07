@@ -181,6 +181,25 @@ color: #00b894;}
   nav .menu{
         display: none;
     }  /* hide it elsewhere */
+    #menu2 ul li a {
+        font-size: 30px;
+    }
+    main section h3{margin-top:5px; font-size: 40px;}
+    .changeContent{
+        display: block;
+    }
+    .btnone{
+        font-size: 30px;
+    }
+    .btntwo{
+        font-size: 30px;
+    }
+    main section p{
+        font-size: 30px
+    }
+    main section h1{
+        font-size: 50px;
+    }
     
 }
  
